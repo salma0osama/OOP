@@ -1,0 +1,14 @@
+D:\CsharpFundamentals\SessionTask\bin\Debug\net9.0\SessionTask.exe
+D:\CsharpFundamentals\SessionTask\bin\Debug\net9.0\SessionTask.deps.json
+D:\CsharpFundamentals\SessionTask\bin\Debug\net9.0\SessionTask.runtimeconfig.json
+D:\CsharpFundamentals\SessionTask\bin\Debug\net9.0\SessionTask.dll
+D:\CsharpFundamentals\SessionTask\bin\Debug\net9.0\SessionTask.pdb
+D:\CsharpFundamentals\SessionTask\obj\Debug\net9.0\SessionTask.GeneratedMSBuildEditorConfig.editorconfig
+D:\CsharpFundamentals\SessionTask\obj\Debug\net9.0\SessionTask.AssemblyInfoInputs.cache
+D:\CsharpFundamentals\SessionTask\obj\Debug\net9.0\SessionTask.AssemblyInfo.cs
+D:\CsharpFundamentals\SessionTask\obj\Debug\net9.0\SessionTask.csproj.CoreCompileInputs.cache
+D:\CsharpFundamentals\SessionTask\obj\Debug\net9.0\SessionTask.dll
+D:\CsharpFundamentals\SessionTask\obj\Debug\net9.0\refint\SessionTask.dll
+D:\CsharpFundamentals\SessionTask\obj\Debug\net9.0\SessionTask.pdb
+D:\CsharpFundamentals\SessionTask\obj\Debug\net9.0\SessionTask.genruntimeconfig.cache
+D:\CsharpFundamentals\SessionTask\obj\Debug\net9.0\ref\SessionTask.dll
